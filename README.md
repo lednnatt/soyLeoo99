@@ -1,5 +1,5 @@
 
-<p>
+<p align="center">
   </a>
   <a href="https://fr.pinterest.com/lennatt_21/_pins/" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
@@ -11,7 +11,7 @@
 
 <br>
 
-<<h2 align="center"> <img src="imgs/title1.png" width="25"/> <em>About me</em> </h2>
+<h2 align="center"> <img src="imgs/title1.png" width="25"/> <em>About me</em> </h2>
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
